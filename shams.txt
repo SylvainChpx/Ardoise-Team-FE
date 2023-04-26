@@ -1,2 +1,4 @@
 1 bière pour Sébastien pour l'aide avec Otoroshi
 1 bière pour Shams pour l'aide sur git (anonymisation auto)
+1 verre pour Baptiste et Sébastien (à se partager) pour la correction du script SQL contrats sans RUM
+1 verre pour Shams pour la correction express de cette dernière requête
